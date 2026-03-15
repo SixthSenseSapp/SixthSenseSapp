@@ -1,4 +1,4 @@
-### What's up!
+### What's up!&#128526;
 
 I'm Vincent, a software engineer.
 
@@ -8,4 +8,4 @@ Outside of school, I like coding and drawing in my free time.
 
 I haven't done anything big yet, but I do have plans.
 
-### Thank you!
+#### Thank you!
