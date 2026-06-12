@@ -1,4 +1,4 @@
-### What's up!&#128526;
+### Hey&#128526;
 
 I'm Vincent, a software engineer.
 
