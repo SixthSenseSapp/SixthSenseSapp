@@ -1,6 +1,6 @@
 ### Hey&#128526;
 
-I'm Vincent, a software engineer.
+I'm Vincent
 
 I'm currently studying cybersecurity and networking.
 
